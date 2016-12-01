@@ -1,4 +1,4 @@
-# LegoInXamlToolkit
+# Lego In XAML Toolkit
 
 It's Lego.
 
